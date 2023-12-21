@@ -16,3 +16,11 @@ body {
     height:100%;
     width:100%;
 }
+
+.boom 
+{
+  width="320" 
+  height="240" 
+  controls>
+  <source src="video.mp4" 
+  type="video/mp4">
